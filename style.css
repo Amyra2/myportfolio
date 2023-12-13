@@ -1,0 +1,142 @@
+.body{
+	height: 2500px;
+}
+.container{ 
+
+	height: 600px;
+	background-color:#E5E3D7;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	justify-content: space-around;
+	
+}
+
+.head{
+	font-family: Britannic Bold;
+	font-size: 35px;
+	color: #70754F;
+	margin-top: 8px;
+	margin-bottom: 5px;
+	
+}
+.login{
+	height: 300px;
+	width: 530px;
+	background-color: rgba(166,168,154,0.5);
+	display: flex;
+	flex-direction: row;
+	justify-content:right;
+	align-items: center;
+	border-radius: 10px;
+	border: 5px solid #A6A89A;
+	font-family: Franklin Gothic Demi Cond;
+	font-size: 15px;
+	color: #70754F;
+	margin-bottom: 10px;
+	/*background-image: url(IMG_6211 );
+	background-position: center left;
+	background-size: 180px;
+	background-repeat: no-repeat;
+	margin-top: 10px;
+	padding-left: 2cm;*/
+	
+	
+}
+.username{
+
+	display: flex;
+	flex-direction: column;
+	padding-right: 50px;
+	margin-left: 5px;
+	margin-right: 80px;
+	
+}
+
+img{
+		height: 30vh;
+		width: 30vh;
+		flex-direction: column;
+		align-items: left;
+		justify-content: left:
+		padding-left: 5px;
+		margin-right: 100px;
+}
+.loginz{
+	margin-top: 10px;
+}
+
+.copyright{
+
+	display: flex;
+	flex-direction: row;
+	font-family: Franklin Gothic Demi Cond;
+	font-size: 20px;
+	color: #70754F;
+}
+
+
+@media(max-width: 620px) {
+
+.container{ 
+
+	height: 100vh;
+	background-color: #E5E3D7;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	justify-content: space-around;
+	
+}
+
+.login{
+
+	height: 250px;
+	width: 270px;
+	background-color: rgba(166,168,154,0.5);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding-bottom: 80px;
+
+	
+}
+
+img{
+	height: 20vh;
+	width: 20vh;
+	flex-direction: column;
+	//align-items: center;
+	justify-content: center;
+	padding-left: 75px;
+	//margin-right: 100px;
+	padding-top: 65px;
+
+}
+.username{
+
+	display: flex;
+	flex-direction: column;
+	padding-right: 50px;
+	padding-top: 10px;
+	margin-left: 40px;
+	margin-right:5px;
+	padding-top: 15px;
+
+}
+
+.head{
+
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+
+
+.copyright{
+	
+	font-family: Franklin Gothic Demi Cond;
+	font-size: 10px;
+	color: #70754F;
+}
+

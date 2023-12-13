@@ -1,0 +1,241 @@
+.container{
+
+	display: flex;
+	flex-direction: column;
+}
+
+
+.header{
+	 
+	display: flex;
+	flex-direction: row;
+	height: 70px;
+	width: 200vh;
+	margin-left: 1%;
+	
+}
+
+.linez{
+
+	width: 25px;
+	height: 20px;
+	padding-top: 10px;
+	
+}
+
+.ytz{
+
+	width: 55px;
+	height: 40px;
+	padding-left: 30px;
+}
+
+.ytt{
+
+	font-family: Georgia;
+	font-size: 23px;
+	color: black;
+	font-weight: Bold;
+	padding-top: 8px;
+	padding-left: 5px;
+}
+
+.srch{
+
+	width:50%;
+	height: 45px;
+	border-radius: 10px;
+	border: 2px solid #black;
+	padding-left: 10px;
+	margin-left: 35px;
+	text-align: left;
+}
+
+.micz{
+
+	width: 25px;
+	height: 20px;
+	padding-top: 10px;
+	padding-left: 5px;
+	
+}
+
+.navigation{
+
+	display: flex;
+	flex-direction: row;
+	height: 200vh;
+	width: 200vh;
+	margin-left: 1%;
+	
+
+}
+
+.grp1{
+	
+	display: flex;
+	flex-direction: column;
+	height: 100px;
+}
+
+.grpz{
+
+	font-family: Georgia;
+	font-size: 15px;
+	color: black;
+	padding: 15px;
+	padding-left: 5px;
+}
+
+.grpzz{
+
+	font-family: Georgia;
+	font-size: 18px;
+	font-weight: bold;
+	color: black;
+	padding: 15px;
+	padding-left: 2px;
+	padding-top: 80px;
+	
+}
+
+.grp2{
+
+	display: flex;
+	flex-direction: row;
+	height: 5vh;
+}
+
+.team{
+
+	font-family: Georgia;
+	font-size: 15px;
+	color: black;
+	padding: 15px;
+	
+}
+
+.go{
+
+	font-family: Georgia;
+	font-size: 15px;
+	color: black;
+	padding: 15px;
+	border-radius: 10px;
+	
+}
+
+.container1{
+	
+	display: flex;
+	flex-direction: column;
+}
+
+.row1{
+	display: flex;
+	flex-direction: row;
+	padding-left: 10px;
+	
+}
+.vlogz{
+
+	height: 160px;
+	width: 300px;
+	padding-top: 5%;
+	padding-left: 5%;
+}
+
+
+
+.haha{
+	display:flex;
+	flex-direction: row;
+	padding-top: 2%;
+	padding-left: 3%;
+	padding-right: 30px;
+}
+
+.ico{
+
+	width: 40px;
+	height: 40px;
+	margin-top: 1%;
+	margin-left: 5%;
+	border-radius: 50%;
+}
+.sike{
+
+	font-family: Georgia;
+	font-size: 15px;
+	font-weight: bold;
+	color: black;
+	padding-left: 2%;
+	padding-top: 2%
+}
+
+.hahaha{
+	
+	flex: display;
+	flex-direction: column;
+	padding-left: 10%;
+}
+
+.haha1{
+
+	font-family: Calibri Light;
+	font-size: 15px;
+	color: black;
+	padding-left: 10.5%;
+	
+}
+
+.oceanz{
+
+	height: 160px;
+	width: 350px;
+	padding-top: 5%;
+	padding-left: 5%;
+}
+
+.row2{
+	display: flex;
+	flex-direction: row;
+	
+}
+
+.bye{
+	
+	padding-right: 85px;
+}
+
+.yike{
+	
+	font-family: Georgia;
+	font-size: 13px;
+	font-weight: bold;
+	color: black;
+	padding-left:1%;
+	padding-top: 2%
+	
+}
+
+.cute{
+	
+	
+	font-family: Georgia;
+	font-size: 10px;
+	font-weight: bold;
+	color: black;
+	padding-left:1%;
+	padding-top: 2%
+
+	
+}
+
+.tibay{
+
+	display: flex;
+	flex-direction: row;
+	
+	
+}

@@ -1,0 +1,301 @@
+.maincontainer{
+
+	display: flex;
+
+}
+
+.container{
+
+	display: flex;
+	flex-direction: column;
+	height:200vh;
+	width: 40%;
+	
+}
+
+.cont1{
+
+	display: flex;
+	height: 70px;
+	flex-direction: row;
+	
+}
+
+.nav{
+
+	display: flex;
+	flex-direction: row;
+	height: 50px;
+}
+
+.amyy{
+
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Calibri;
+	color: #2C64CA;
+	margin-left: 10px;
+	padding-top: 3%;
+}
+.rome{
+
+	display: flex;
+	flex-direction: column;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Calibri;
+	color: #2C64CA;
+	margin-left: 53px;
+	padding: 7px;
+}
+
+.roar{
+	
+	margin-left: 53px;
+	padding: 7px;
+	font-size: 18px;
+	font-family: Calibri;
+}
+
+.fbicon{
+
+	width: 45px;
+	height: 40px;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+
+.amyamy{
+
+	width: 45px;
+	height: 40px;
+	padding-left: 5px;
+	border-radius: 100%;
+}
+
+.mssg{
+	
+	width:70%;
+	height: 40px;
+	border-radius: 10px;
+	border: 2px solid #2C64CA;
+	margin-top: 7px;
+	margin-left: 20px;
+	padding: 2px;
+	text-align: center;
+}
+
+.container2{
+
+	display: flex;
+	flex-direction: column;
+	height:200vh;
+	width: 65%
+	
+}
+
+.nav1{
+	
+	display: flex;
+	flex-direction: row;
+	height: 7vh;
+	width: 95%;
+	border-right: 0.5px solid #D6D6D6;
+	border-bottom: 0.5px solid #D6D6D6;
+	margin-left: 5%;
+
+}
+
+.homme{
+
+	width: 40px;
+	height: 25px;
+	padding: 35;
+	padding-top: 5px;
+
+
+
+
+}
+
+.cont2{
+
+	display: flex;
+	flex-direction: row;
+	height:25vh;
+	width: 95vh;
+	border-right: 0.5px solid #D6D6D6;
+	border-bottom: 0.5px solid #D6D6D6;
+	margin-left: 5%;
+}
+
+
+.imgz{
+
+	height: 160px;
+	width: 125px;
+	padding: 1.5px;
+	border-radius: 5%;
+}
+
+.whatson{
+
+	display: flex;
+	flex-direction: row;
+	height: 100px;
+	width: 95%;
+	border: 1px solid #D6D6D6;
+	margin-left: 5%;
+}
+
+.imgg{
+
+	width: 50px;
+	height: 45px;
+	margin-left: 20px;
+	margin-top: 5px;
+	border-radius: 100%;
+
+}
+
+.mind{
+	
+	width: 95%;
+	height: 40%;
+	border-radius: 10px;
+	border: 2px solid #2C64CA;
+	margin-top: 7px;
+	margin-left: 20px;
+	text-align: left;
+}
+
+.mindd{
+
+	display: flex;
+	flex-direction: row;
+}
+
+.optns{
+
+	display: flex;
+	flex-direction: row;
+	width: 40px;
+	height: 25px;
+	padding-top: 50px;
+	
+}
+
+.optnsz{
+
+	width: 40px;
+	height: 25px;
+	padding: 35;
+	padding-top: 5px;
+}
+
+.post{
+	
+	display: flex;
+	flex-direction: column;
+	height: 500px;
+	width: 95%;
+	border: 1px solid #D6D6D6;
+	margin-left: 5%;
+	padding-top: 5%;
+	padding-left: 5%;
+	justify-content: left;
+	
+}
+
+.username{
+	display: flex;
+	flex-direction: row;
+}
+
+.ago{
+	
+	font-size: 10px;
+	font-family: Calibri;
+	color: #D6D6D6;
+	padding-top: 5%;
+	padding-letf: 5%;
+	
+}
+
+.name{
+
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Calibri;
+	color: black;
+	margin-left: 10px;
+	padding-top: 0.5%;
+	
+}
+
+.shid{
+	width: 50px;
+	height: 45px;
+}
+
+.sad{
+
+	display: flex;
+	flex-direction: column;
+	padding-top: 10%;
+}
+
+.her{
+	
+	width: 90%;
+	height: 45%;
+	padding-right: 10%;
+}
+
+.button{
+
+	display: flex;
+	flex-direction: row;
+	height: 7vh;
+	width: 95%;
+	margin-left: 5%;
+
+}
+
+.bttn{
+
+	display: flex;
+	flex-direction: row;
+	width: 40px;
+	height: 25px;
+	padding-top: 35px;
+	padding-right: 90px;
+	
+	
+}
+
+.container3{
+
+	display: flex;
+	flex-direction: column;
+	height:200vh;
+	width: 40%;
+	background-color: white;
+}
+
+.nav2{
+
+	display: flex;
+	flex-direction: row;
+	
+	
+}
+
+.bar{
+
+	width: 25px;
+	height: 15px;
+	padding-top: 10px;
+	padding-left: 20%;
+	
+}
